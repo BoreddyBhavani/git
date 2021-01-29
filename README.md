@@ -4,9 +4,13 @@
 #### gskj
 
 **bold data**
-__another bold__
+
+_another bold_
+
 *gitworkshop*
+
 _**italic**_
+
 ## orderlist
 1. cse
 2. ece
@@ -19,3 +23,22 @@ _**italic**_
 - year2
    * year2(a)
    * year2(b)
+   
+hfjfslkdlskjskhfdjhf
+lkjdjfhjdfadja;jhiejfj
+hjkfhskjdklsfjjdfh
+
+hadjjldhdjhfdgf;k
+njfhaweiriejehfjds
+ndbflkdjnsajflbashjfajdgfbcd
+
+>this is a blocked text
+
+## blocked text
+>a code is type of input method
+
+>>i am bhavani
+>>>vgjdfvh,kjhhj
+
+### inserting urls
+[google(https://www.google.com/)]
