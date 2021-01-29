@@ -11,6 +11,6 @@ _**italic**_
 1.cse
 2.ece
 3.eee
-4.civil
-   1.cse(a)
-   2.cse(b)
+4.civi
+  1. cse(a)
+  2. cse(b)
