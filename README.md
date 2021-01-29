@@ -41,4 +41,4 @@ ndbflkdjnsajflbashjfajdgfbcd
 >>>vgjdfvh,kjhhj
 
 ### inserting urls
-[google(https://www.google.com/)]
+[google](https://www.google.com/)
